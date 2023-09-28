@@ -38,10 +38,20 @@ Click here to see live👉🏻👉🏻 [Portfolio Website](https://yash-portfoli
 
 **5th project :-**
 
-Click here to see live👉🏻👉🏻 [Modern Chair Project](https://yash-modern-chair.netlify.app/)
+Click here to see live👉🏻👉🏻 [Modern Chair](https://yash-modern-chair.netlify.app/)
 
 ( [Download full Repository](https://download-directory.github.io/?url=https://github.com/imyash9/Dot-batch-projects/tree/master/modern-chair/) ) ( [Download only Images](https://download-directory.github.io/?url=https://github.com/imyash9/Dot-batch-projects/tree/master/modern-chair/img/) ) 👍👍
 
 ![App Screenshot](./img/modern-chair.png)
+
+**6th project :-**
+
+Click here to see live👉🏻👉🏻 [Razorpay Clone](https://yash-razorpay.netlify.app/)
+
+( [Download full Repository](https://download-directory.github.io/?url=https://github.com/imyash9/Dot-batch-projects/tree/master/razorpay/) ) ( [Download only Images](https://download-directory.github.io/?url=https://github.com/imyash9/Dot-batch-projects/tree/master/razorpay/img/) ) 👍👍
+
+![App Screenshot](./img/razorpay.png)
+
+Some Images and Texts are still changeble i'll fix it as soon as possible
 
 **Next Update Soon**

@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.core-feature-section {
+    background-size: 100% 100%;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+
+.companyList {
+    animation: 25s infinite linear moveImage;
+}
+
+@keyframes moveImage {
+    0% {
+        top: 0;
+    }
+
+    100% {
+        top: -160%;
+    }
+}
+
+.ctaSection {
+    background-size: 100% 100%;
+}

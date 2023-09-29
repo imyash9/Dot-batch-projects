@@ -52,6 +52,12 @@ Click here to see live👉🏻👉🏻 [Razorpay Clone](https://yash-razorpay.ne
 
 ![App Screenshot](./img/razorpay.png)
 
-Some Images and Texts are still changeble i'll fix it as soon as possible
+**7th project :-**
+
+Click here to see live👉🏻👉🏻 [Discord Clone](https://yash-discord.netlify.app/)
+
+( [Download full Repository](https://download-directory.github.io/?url=https://github.com/imyash9/Dot-batch-projects/tree/master/discord/) ) ( [Download only Images](https://download-directory.github.io/?url=https://github.com/imyash9/Dot-batch-projects/tree/master/discord/img/) ) 👍👍
+
+![App Screenshot](./img/discord.png)
 
 **Next Update Soon**
